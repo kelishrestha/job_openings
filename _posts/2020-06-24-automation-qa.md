@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Lorem ipsum dolor sit amet"
-date: 2014-07-22 16:25:06 -0700
+title: "Automation QA"
+date: 2020-06-24 12:25:06 +0545
 comments: true
 ---
 

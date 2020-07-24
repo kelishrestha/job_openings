@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Maecenas feugiat fringilla nibh"
-date: 2014-06-22 16:25:06 -0700
+title: "Angular Developer"
+date: 2020-06-24 12:25:06 +0545
 comments: true
 ---
 
