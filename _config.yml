@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: My blog
+name: Jobs Openings
 description: A jekyll theme
 
 # url is currently only used only for the RSS feed in feed.xml
@@ -10,7 +10,7 @@ url: https://kelishrestha.github.io/job_openings/
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /jekyll-clean
+baseurl: /job_openings
 
 # These can be '' to hide the Github or Gitlab nav buttons
 github: 'scotte/jekyll-clean'
