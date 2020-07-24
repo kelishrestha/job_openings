@@ -34,3 +34,7 @@ We are looking for a Ruby on Rails developer with 4+ years of experience respons
 * Databases: PostgresSQL, Redis, ElasticSearch, MongoDB
 * Team: Scrum, Git, Github
 * Languages: Ruby, Javascript
+
+#### Submit Application
+
+Mail your resume and cover letter <a href="mailto:kelina@kudoway.com">here</a>
